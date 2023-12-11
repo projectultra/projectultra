@@ -1,11 +1,11 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonas Chris Ferrao
+Hi! My name is Jonas Chris Ferrao
 ==========================================================================================================================================
 ### AI/ML Engineer | Full Stack Developer | Software Engineer | Data Scientist
 ---
 🌍  Based in Goa, India   
 🖥️  Check out my portfolio at [jonaschris.tech](http://jonaschris.tech)  
 ✉️  Reach me at [jonasferrao21@gmail.com](mailto:jonasferrao21@gmail.com)   
-🤝  Open to collaborations on AI/ML endeavours  and Deep Learning research projects  
+🤝  Open to collaborations on AI/ML endeavours and research projects.  
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectultra&theme=blue-green)
