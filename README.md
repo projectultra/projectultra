@@ -8,6 +8,9 @@ Hi! My name is Jonas Chris Ferrao
 🤝  Open to collaborations on AI/ML endeavours and research projects.  
 
 ---
+ <a href="https://gitroll.io/profile/uEB1ADJFBEYUmDikXIzVOaP3i1mf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uEB1ADJFBEYUmDikXIzVOaP3i1mf1" alt="GitRoll Profile Badge"/></a>
+
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectultra&theme=blue-green)
 ![Profile Views](https://komarev.com/ghpvc/?username=projectultra&label=Profile+Views&color=blue)
 ---
